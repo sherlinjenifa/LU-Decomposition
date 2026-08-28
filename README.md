@@ -57,8 +57,9 @@ print(X)
 
 ## Output:
 <img width="1072" height="763" alt="Screenshot 2026-08-28 131923" src="https://github.com/user-attachments/assets/ae0fe9fc-8467-459b-b003-d062dc47afcb" />
-<img width="1090" height="791" alt="Screenshot 2026-08-28 131955" src="https://github.com/user-attachments/assets/473f814a-3c05-45a7-8b4c-e9af4b83271c" />
 <img width="1196" height="721" alt="Screenshot 2026-08-28 131941" src="https://github.com/user-attachments/assets/3662a2b2-753d-4391-90c4-be3d03eec371" />
+<img width="1090" height="791" alt="Screenshot 2026-08-28 131955" src="https://github.com/user-attachments/assets/473f814a-3c05-45a7-8b4c-e9af4b83271c" />
+
 
 
 
